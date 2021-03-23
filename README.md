@@ -1,4 +1,4 @@
-# SU Music Player — The first open-source PyTgCalls based Pyrogram bot to play music in voice chats
+# GroupZoid Music Player — The first open-source PyTgCalls based Pyrogram bot to play music in voice chats
 
 ## Note
 
@@ -40,7 +40,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
    ```
 
 ### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suprojects/CallsMusicHeroku/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Royal-Devendra/CallsMusic)
 
 
 ## Credits
